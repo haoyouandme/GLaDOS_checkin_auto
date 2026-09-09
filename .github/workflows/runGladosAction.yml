@@ -28,6 +28,4 @@ jobs:
         env: 
           GLADOS_COOKIE: "${{ secrets.GLADOS_COOKIE }}"
           PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
-      - uses: gautamkrishnar/keepalive-workflow@master  
-✓
-已复制 724 个字符 (纯文本)
+      - uses: gautamkrishnar/keepalive-workflow@master 
